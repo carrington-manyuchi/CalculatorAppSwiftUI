@@ -10,14 +10,15 @@ import SwiftUI
 
 
 
-let backgroundColor = Color("buttonBackground")
+let buttonBackgroundColor = Color("buttonBackground")
 
 let foregroundDigitsColor = Color("foregroundDigits")
-let foregroundRightButtons = Color("foregroundRightButtons")
+let foregroundRightButtonsColor = Color("foregroundRightButtons")
 
-let foregroundTopButtons = Color("foregroundTopButtons")
+let foregroundTopButtonsColor = Color("foregroundTopButtons")
 
 let primaryBackground = Color("primaryBackground")
-let secondaryBackground = Color("secondaryBackground")
+let secondaryBackgroundColor = Color("secondaryBackground")
 let sunOrMoonSelected = Color("sunOrMoonSelected")
 let sunOrMoonNotSelected = Color("sunOrMoonNotSelected")
+// #272B33
